@@ -36,9 +36,9 @@ CLONE THIS REPOSITORY TO YOUR MACHINE:
 
    - IN ORDER TO START BACKEND
 
-         ` sudo service mongod start`
+     `sudo service mongod start`
 
-           `nodemon server`
+      `nodemon server`
 
 ## ARCHITECTURE 
 
