@@ -13,6 +13,7 @@ MEVN(MONGOD,EXPRESS,VUE , NODE) HAS BEEN USED TO DEVELOP THIS APPLICATION.
 MEVN WAS USED EARLIER IN THE CLASS THEREFOR IT HAS BEEN USED TO DEVELOP THIS PROJECT.
 
 ## INSTALLATION
+
 CLONE THIS REPOSITORY TO YOUR MACHINE:
 
 'https://github.com/Gurkiran-Singh/Sign-In'
@@ -20,23 +21,24 @@ CLONE THIS REPOSITORY TO YOUR MACHINE:
 ### INSTALL DEPENDENCIES
 
 - FRONTEND
-`install yarn`
+ 
+   `install yarn`
 
-`upgrade yarn`
+    `upgrade yarn`
 
-- BACKEND
+   - BACKEND
 
-`install mongodb`
+     `install mongodb`
 
-- IN ORDER TO START  FRONTEND
+   - IN ORDER TO START  FRONTEND
 
- `npm run dev`
+        `npm run dev`
 
-- IN ORDER TO START BACKEND
+   - IN ORDER TO START BACKEND
 
-` sudo service mongod start`
+         ` sudo service mongod start`
 
-  `nodemon server`
+           `nodemon server`
 
 ## ARCHITECTURE 
 
