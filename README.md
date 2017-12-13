@@ -1,67 +1,69 @@
-# SIGN-IN
+# Sign-In
 
-## CSC583-FINAL
+## Csc583-Final
 
-## ABOUT
+## About
 
-SIGN-IN APPLICATION IS USED TO COLLECT THE USER INFORMATION .
-THIS APPLICATION CAN RUN ON MOBILE DEVICES AND IT IS  HAVING  ADMIN VIEW WHICH CAN BE USED TO VIEW THE LIST OF REGISTERD USERS.
+Sign-in application is used to collect the user information .
+This application can run on mobile devices and it is  having  admin view which can be used to view the list of registerd users.
 
-## NON-FUNCTIONAL REQUIREMENTS
+## Non-Functional Requirements
 
-MEVN(MONGOD,EXPRESS,VUE , NODE) HAS BEEN USED TO DEVELOP THIS APPLICATION.
-MEVN WAS USED EARLIER IN THE CLASS THEREFOR IT HAS BEEN USED TO DEVELOP THIS PROJECT.
+MEVN(Mongod,Express,Vue , Node) has been used to develop this application.
+MEVN was used earlier in the class therefor it has been used to develop this project.
 
-## INSTALLATION
+## Installation
 
-CLONE THIS REPOSITORY TO YOUR MACHINE:
+Clone this repo to your Local Machine:
 
 'https://github.com/Gurkiran-Singh/Sign-In'
 
-### INSTALL DEPENDENCIES
+### Install Dependencies
 
-- FRONTEND
+- Frontend
+
+  `npm install`
+  
+  `install yarn`
  
-   `install yarn`
+  `upgrade yarn`
 
-    `upgrade yarn`
+- Backend
 
-   - BACKEND
+  `install mongodb`
 
-     `install mongodb`
+- In order to start Frontend
 
-   - IN ORDER TO START  FRONTEND
+  `npm run dev`
 
-        `npm run dev`
+- In order to start Backend
 
-   - IN ORDER TO START BACKEND
+  `sudo service mongod start`
 
-     `sudo service mongod start`
+  `nodemon server`
 
-      `nodemon server`
+## Architecture
 
-## ARCHITECTURE 
+It is a three tier architecture which includes:
 
-STACK INCLUDES:
+- Nodejs  (web server and execution environment)
 
-- NODEJS   
+- MongoDB (used as backend)
 
-- MONGODB
+-  Vuejs  (used for front end/user UI)
 
--  VUEJS 
-
-- EXPRESS JS
+- Express (middleware language for API)
 
 
 
 
-## PLAN
+ ## Plan of Action
 
-- [x]  Non-functional analysis
+ - [x]  Non-functional analysis
 
-- [x] Architecture design
+- [x]  Architecture design
 
-- [x] Test deployment
+- [x]  Test deployment
 
 
 
