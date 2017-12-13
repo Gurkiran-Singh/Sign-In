@@ -30,23 +30,23 @@ CLONE THIS REPOSITORY TO YOUR MACHINE:
 
 - IN ORDER TO START  FRONTEND
 
-`npm run dev`
+ `npm run dev`
 
 - IN ORDER TO START BACKEND
 
 ` sudo service mongod start`
 
-`nodemon server`
+  `nodemon server`
 
 ## ARCHITECTURE 
 
 STACK INCLUDES:
 
-- NODEJS 
+- NODEJS   
 
 - MONGODB
 
--VUEJS 
+-  VUEJS 
 
 - EXPRESS JS
 
@@ -54,5 +54,14 @@ STACK INCLUDES:
 
 
 ## PLAN
+
+- [x]  Non-functional analysis
+
+- [x] Architecture design
+
+- [x] Test deployment
+
+
+
 
 
