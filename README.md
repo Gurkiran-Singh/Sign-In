@@ -28,17 +28,16 @@ Clone this repo to your Local Machine:
  
   `upgrade yarn`
 
-- Backend
-
-  `install mongodb`
 
 - In order to start Frontend
 
   `npm run dev`
 
-- In order to start Backend
+- In order to start Database
 
   `sudo service mongod start`
+
+- In order to start Backend
 
   `nodemon server`
 
